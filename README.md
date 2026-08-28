@@ -6,15 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 3 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (1)
-- [math](#math) (1)
+- [geometry](#geometry) (1)
+- [greedy](#greedy) (2)
+- [math](#math) (2)
 - [sortings](#sortings) (1)
 
 ---
@@ -25,16 +26,24 @@
 |---|---------|------------|----------|
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1312/B%20-%20Bogosort/solution.cpp) |
 
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 
 ### sortings

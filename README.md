@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 5 |
+| 4 | 6 |
 
 ---
 
@@ -15,7 +15,8 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (2)
-- [math](#math) (2)
+- [implementation](#implementation) (1)
+- [math](#math) (3)
 - [sortings](#sortings) (1)
 
 ---
@@ -39,10 +40,17 @@
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
+
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 

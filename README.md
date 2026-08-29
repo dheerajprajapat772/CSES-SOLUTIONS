@@ -6,17 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 7 |
+| 8 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (1)
-- [math](#math) (5)
+- [math](#math) (6)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
 
@@ -27,6 +27,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1312/B%20-%20Bogosort/solution.cpp) |
+| 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 
 ### geometry
 
@@ -38,6 +39,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
@@ -55,6 +57,7 @@
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1765M | [Minimum LCM](https://codeforces.com/contest/1765/problem/M) | 1000 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1765/M%20-%20Minimum%20LCM/solution.cpp) |
+| 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 

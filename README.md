@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 7 |
+| 9 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (4)
@@ -21,6 +22,12 @@
 - [sortings](#sortings) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 
 ### constructive algorithms
 

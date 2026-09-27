@@ -6,21 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 11 |
+| 16 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (1)
-- [brute force](#brute-force) (1)
-- [constructive algorithms](#constructive-algorithms) (3)
+- [brute force](#brute-force) (2)
+- [constructive algorithms](#constructive-algorithms) (4)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (8)
 - [implementation](#implementation) (3)
 - [math](#math) (9)
 - [number theory](#number-theory) (2)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (2)
 - [two pointers](#two-pointers) (1)
 
@@ -37,6 +37,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
+| 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 
 ### constructive algorithms
 
@@ -45,6 +46,7 @@
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1312/B%20-%20Bogosort/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
+| 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 
 ### geometry
 
@@ -100,6 +102,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1312/B%20-%20Bogosort/solution.cpp) |
+| 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 
 ### strings
 

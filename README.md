@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 11 |
+| 18 | 13 |
 
 ---
 
@@ -15,13 +15,15 @@
 - [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (4)
+- [data structures](#data-structures) (1)
+- [dp](#dp) (1)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (8)
+- [greedy](#greedy) (10)
 - [implementation](#implementation) (3)
-- [math](#math) (9)
+- [math](#math) (10)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -48,6 +50,18 @@
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/2252/B%20-%20Always%20Changing/solution.cpp) |
+
 ### geometry
 
 | # | Problem | Difficulty | Solution |
@@ -66,6 +80,8 @@
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
+| 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/2252/B%20-%20Always%20Changing/solution.cpp) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
 
 ### implementation
@@ -88,6 +104,7 @@
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/2252/B%20-%20Always%20Changing/solution.cpp) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
 
 ### number theory
@@ -109,6 +126,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
+| 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/2252/B%20-%20Always%20Changing/solution.cpp) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/dheerajprajapat772/CSES-SOLUTIONS/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
 
 ### two pointers
